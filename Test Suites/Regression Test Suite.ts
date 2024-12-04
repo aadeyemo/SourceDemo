@@ -12,6 +12,13 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>319546f1-adbc-4875-8c31-358ad631088d</testSuiteGuid>
    <testCaseLink>
+      <guid>ae257255-1289-4558-9084-5d6e50ae9790</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login Test</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>5ebda083-c5a8-43dd-99dd-2e29eaf39eea</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -23,13 +30,6 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Checkout Test</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>ae257255-1289-4558-9084-5d6e50ae9790</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Login Test</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
