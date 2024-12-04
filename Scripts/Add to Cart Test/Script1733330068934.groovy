@@ -43,5 +43,5 @@ WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart_
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/a_5'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/a_5'), '')
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Swag Labs/a_5'), FailureHandling.STOP_ON_FAILURE)
 
